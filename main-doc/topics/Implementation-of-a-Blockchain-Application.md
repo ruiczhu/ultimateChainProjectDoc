@@ -8,7 +8,7 @@
         - **Draw**: A struct representing a lottery draw with draw ID, winning number, draw time, and an array of winners.
         - **Functions**: Functions for buying tickets, drawing the lottery, distributing prizes, pausing/unpausing the contract, and withdrawing funds.
     - Below is the code for the smart contract:
-    ```Solidity
+    ```
     // SPDX-License-Identifier: MIT
     pragma solidity ^0.8.0;
 
