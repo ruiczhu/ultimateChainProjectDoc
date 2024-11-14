@@ -10,4 +10,12 @@
         <description>Created after removal of "Learning Resources" from Instance Name</description>
         <accepts>Learning-Resources.html</accepts>
     </rule>
+    <rule id="47c988de">
+        <description>Created after removal of "Group Project Presentation" from Instance Name</description>
+        <accepts>Group-Project-Presentation.html</accepts>
+    </rule>
+    <rule id="1a98784b">
+        <description>Created after removal of "Example" from Instance Name</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
 </rules>

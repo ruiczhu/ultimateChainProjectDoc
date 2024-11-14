@@ -6,12 +6,10 @@
                  name="Instance Name"
                  start-page="Task-Assignment.md">
 
-    <toc-element topic="Empty-MD-Topic.md"/>
     <toc-element topic="Task-Assignment.md"/>
     <toc-element topic="Project-Overview.md"/>
     <toc-element topic="Problem-Statement.md"/>
     <toc-element topic="Creative-Solution-Design.md"/>
     <toc-element topic="Implementation-of-a-Blockchain-Application.md"/>
     <toc-element topic="Advanced-Features.md"/>
-    <toc-element topic="Group-Project-Presentation.md"/>
 </instance-profile>
