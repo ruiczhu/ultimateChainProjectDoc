@@ -6,6 +6,7 @@
                  name="Instance Name"
                  start-page="Task-Assignment.md">
 
+    <toc-element topic="Our-team.md"/>
     <toc-element topic="Task-Assignment.md"/>
     <toc-element topic="Project-Overview.md"/>
     <toc-element topic="Problem-Statement.md"/>
